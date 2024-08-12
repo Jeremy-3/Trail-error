@@ -1,7 +1,7 @@
 import React from "react";
 
 const Trial = () => {
-  return <div>Trial</div>;
+  return <div>Trials</div>;
 };
 
 export default Trial;
